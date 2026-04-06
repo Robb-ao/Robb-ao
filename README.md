@@ -10,15 +10,15 @@ Enfoque en el desarrollo de soluciones escalables, seguras y centradas en la exp
 
 ## 🌐 Redes sociales:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[LinkedIn](www.linkedin.com/in/robinson-ferney-ao)
 
 ---
 
 ## 💻 Tecnologías utilizadas:
 
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![JWT](https://shields.io)
+[JavaScript]
+[React]
+[Python]
+[SQL]
+[JWT]
 
