@@ -10,7 +10,7 @@ Enfoque en el desarrollo de soluciones escalables, seguras y centradas en la exp
 
 ## 🌐 Redes sociales:
 
-[LinkedIn](www.linkedin.com/in/robinson-ferney-ao)
+[LinkedIn]([www.linkedin.com/in/robinson-ferney-ao](https://www.linkedin.com/in/robinson-ferney-ao/))
 
 ---
 
