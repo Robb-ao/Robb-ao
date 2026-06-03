@@ -19,5 +19,3 @@ Full Stack Developer con experiencia en desarrollo de aplicaciones web utilizand
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=🔐&logoColor=white)](https://jwt.io)
-
-
