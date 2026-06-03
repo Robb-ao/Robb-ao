@@ -15,7 +15,11 @@ Full Stack Developer con experiencia en desarrollo de aplicaciones web utilizand
 ## 💻 Tecnologías utilizadas:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://mozilla.org)
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+
 [![JWT](https://img.shields.io/badge/🔐%20JWT-000000?style=for-the-badge&logoColor=white)](https://jwt.io)
