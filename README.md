@@ -14,10 +14,12 @@ Full Stack Developer con experiencia en desarrollo de aplicaciones web utilizand
 
 ## 💻 Tecnologías utilizadas:
 
-* <img src="./javascript-original.svg" width="20" height="20" valign="middle"/> **JavaScript**
-* <img src="./react-original.svg" width="20" height="20" valign="middle"/> **React**
-* <img src="./python-original.svg" width="20" height="20" valign="middle"/> **Python**
-* <img src="./postgresql-original.svg" width="20" height="20" valign="middle"/> **SQL**
+* [![JavaScript](https://githubusercontent.com)](https://mozilla.org) **JavaScript**
+* [![React](https://githubusercontent.com)](https://react.dev) **React**
+* [![Python](https://githubusercontent.com)](https://python.org) **Python**
+* [![SQL](https://githubusercontent.com)](https://postgresql.org) **SQL**
+* [![JWT](https://githubusercontent.com)](https://jwt.io) **JWT**
+
 
 
 
