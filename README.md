@@ -20,6 +20,12 @@ Full Stack Developer con experiencia en desarrollo de aplicaciones web utilizand
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 
+## 💻 Tecnologías utilizadas:
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://mozilla.org) 
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)](https://react.dev)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://python.org)
+[![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)](https://postgresql.org)
+[![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)](https://jwt.io)
 
 
