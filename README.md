@@ -14,9 +14,9 @@ Full Stack Developer con experiencia en desarrollo de aplicaciones web utilizand
 
 ## 💻 Tecnologías utilizadas:
 
-[JavaScript]
-[React]
-[Python]
-[SQL]
-[JWT]
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![JWT](https://shields.io)
 
