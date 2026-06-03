@@ -14,9 +14,10 @@ Full Stack Developer con experiencia en desarrollo de aplicaciones web utilizand
 
 ## 💻 Tecnologías utilizadas:
 
-* 🟨 **JavaScript**
-* ⚛️ **React**
-* 🐍 **Python**
-* 🛢️ **SQL**
-* 🔑 **JWT**
+* <img src="https://jsdelivr.net" width="20" height="20" align="center"/> **JavaScript**
+* <img src="https://jsdelivr.net" width="20" height="20" align="center"/> **React**
+* <img src="https://jsdelivr.net" width="20" height="20" align="center"/> **Python**
+* <img src="https://jsdelivr.net" width="20" height="20" align="center"/> **SQL**
+* <img src="https://shields.io" height="20" align="center"/> **JWT**
+
 
